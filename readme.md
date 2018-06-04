@@ -1,3 +1,7 @@
+## Work in progress :
+*jour 1*
+* Rendu diagramme uml : ok
+
 # Création d'une base de donnée pour un hôtel
 Il vous est demandé de concevoir et mettre en place une base de données pour un hôtel.  
 Celle-ci devra respecter les conditions définies ci-dessous.
